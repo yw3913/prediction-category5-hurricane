@@ -7,4 +7,5 @@ The project used 2 main data. One is Historical Hurricane Data and the other is 
 - Ocean Data: Standard meteorological data from National Data Buoy Center
 
 ## Data Processing
-
+### Hurricane Data
+To explore the historical hurricane data, the project visualized the data and calculated the average original location of hurricane for each year. After that, distinguished the year for Strong El Niño and Strong La Niño
